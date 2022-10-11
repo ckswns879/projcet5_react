@@ -18,8 +18,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "homepage": "git@github.com:ckswns879/project5_react.git"
-
+    "homepage": "https://ckswns879.github.io/projcet5_react/"
   },
   "eslintConfig": {
     "extends": [
